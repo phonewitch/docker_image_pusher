@@ -11,3 +11,4 @@ logstash:8.5.0
 kibana:8.5.0
 mongo:7.0.0
 mongo:4.4.12-rc0-focal
+elasticsearch:6.5.3
