@@ -14,3 +14,4 @@ mongo:4.4.12-rc0-focal
 elasticsearch:6.5.3
 elasticsearch:7.17.21
 kibana:7.17.21
+logstash:7.17.21
