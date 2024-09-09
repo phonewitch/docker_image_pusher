@@ -15,3 +15,6 @@ elasticsearch:6.5.3
 elasticsearch:7.17.21
 kibana:7.17.21
 logstash:7.17.21
+elasticsearch:8.12.2
+logstash:8.12.2
+kibana:8.12.2
